@@ -1,4 +1,4 @@
-module github.com/mr-khabib/golang-learning
+module go-bookstore
 
 go 1.18
 
